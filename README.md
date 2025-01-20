@@ -21,9 +21,9 @@
 2. [Slide](https://github.com/lucthienphong1120)
 
 ### BASIC
-1. [Basic Syntax , Datatype , Variable](https://github.com/lucthienphong1120)
+1. [Basic Syntax , Datatype , Variable](https://github.com/td2210z/Java-Tutorial/tree/main/basic-syntax)
 
-2. [Conditionals , Fuctions , Loop](https://github.com/lucthienphong1120)
+2. [Conditionals , Fuctions , Loop](https://github.com/td2210z/Java-Tutorial/tree/main/Codition)
 
 
 3. [1 , 2 -Dimensional Array](https://github.com/lucthienphong1120)
